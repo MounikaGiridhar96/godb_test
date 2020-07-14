@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "firstName": "mounika",
+      "lastName": "mounika",
+      "email": "lastName",
+      "mobileno": "typicode",
+      "password": "password",
+      "confirmpassword": "confirmpassword"
+    },
+    {
+      "firstName": "Mounika",
+      "lastName": "Giridhar",
+      "email": "mounikagiridhar@gmail.com",
+      "mobileno": "7708311357",
+      "password": "mounika",
+      "confirmpassword": "mounika",
+      "id": 2
+    },
+    {
+      "firstName": "Mounika",
+      "lastName": "Giridhar",
+      "email": "mounikagiridhar@gmail.com",
+      "mobileno": "7708311357",
+      "password": "mounika",
+      "confirmpassword": "mounika",
+      "id": 3
+    },
+    {
+      "firstName": "Mounika",
+      "lastName": "Giridhar",
+      "email": "mounikagiridhar@gmail.com",
+      "mobileno": "7708311357",
+      "password": "mounika",
+      "confirmpassword": "mounika",
+      "id": 4
+    },
+    {
+      "email": "mounikagiridhar@gmail.com",
+      "password": "mounika",
+      "id": 5
+    },
+    {
+      "firstName": "Mounika",
+      "lastName": "Giridhar",
+      "email": "mounikagiridhar@gmail.com",
+      "mobileno": "7708311357",
+      "password": "mounika",
+      "confirmpassword": "mounika",
+      "id": 6
+    },
+    {
+      "firstName": "Mounika",
+      "lastName": "Giridhar",
+      "email": "mounikagiridhar@gmail.com",
+      "mobileno": "7708311357",
+      "password": "mounika",
+      "confirmpassword": "mounika",
+      "id": 7
+    },
+    {
+      "firstName": "Mounika",
+      "lastName": "Giridhar",
+      "email": "mounikagiridhar@gmail.com",
+      "mobileno": "7708311357",
+      "password": "mounika",
+      "confirmpassword": "mounika",
+      "id": 8
+    },
+    {
+      "firstName": "Mounika",
+      "lastName": "Giridhar",
+      "email": "mounikagiridhar@gmail.com",
+      "mobileno": "7708311357",
+      "password": "mounika",
+      "confirmpassword": "mounika",
+      "id": 9
+    }
+  ]
+}
