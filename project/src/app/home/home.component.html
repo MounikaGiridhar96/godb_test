@@ -1,0 +1,7 @@
+<!-- <h1>Hi {{currentUser.firstName}}!</h1> -->
+<h3>All registered users:</h3>
+<ul>
+    <li *ngFor="let user of users">
+        {{user.firstname}} ( {{user.lastName}})
+    </li>
+</ul>
